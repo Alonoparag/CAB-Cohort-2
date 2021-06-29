@@ -1,0 +1,631 @@
+station,count,rank,bin
+New Hampshire Ave & T St NW,1856.0,1.0,top to 80%
+1st & M St NE,1836.0,0.9976190476190476,top to 80%
+15th & P St NW,1836.0,0.9976190476190476,top to 80%
+Lincoln Memorial,1833.0,0.9952380952380953,top to 80%
+4th St & Madison Dr NW,1726.0,0.9936507936507937,top to 80%
+Jefferson Dr & 14th St SW,1692.0,0.9920634920634921,top to 80%
+4th & M St SW,1650.0,0.9904761904761905,top to 80%
+11th & M St NW,1631.0,0.9888888888888889,top to 80%
+Henry Bacon Dr & Lincoln Memorial Circle NW,1620.0,0.9873015873015873,top to 80%
+14th & Irving St NW,1618.0,0.9857142857142858,top to 80%
+14th & V St NW,1569.0,0.9841269841269841,top to 80%
+8th & O St NW,1522.0,0.9825396825396825,top to 80%
+5th & K St NW,1505.0,0.9809523809523809,top to 80%
+Thomas Circle,1496.0,0.9793650793650793,top to 80%
+15th & W St NW,1493.0,0.9777777777777777,top to 80%
+Smithsonian-National Mall / Jefferson Dr & 12th St SW,1492.0,0.9761904761904762,top to 80%
+3rd & M St NE,1480.0,0.9746031746031746,top to 80%
+Jefferson Memorial,1387.0,0.973015873015873,top to 80%
+Lamont & Mt Pleasant NW,1335.0,0.9714285714285714,top to 80%
+Gravelly Point,1326.0,0.9698412698412698,top to 80%
+Massachusetts Ave & Dupont Circle NW,1317.0,0.9682539682539683,top to 80%
+16th & Harvard St NW,1312.0,0.9666666666666667,top to 80%
+14th & Rhode Island Ave NW,1300.0,0.9650793650793651,top to 80%
+1st & K St SE,1295.0,0.9634920634920635,top to 80%
+6th & H St NE,1294.0,0.9619047619047619,top to 80%
+17th & Corcoran St NW,1293.0,0.9603174603174603,top to 80%
+14th & R St NW,1291.0,0.9587301587301588,top to 80%
+4th St & K St NW,1260.0,0.9571428571428572,top to 80%
+15th & Euclid St  NW,1255.0,0.9555555555555556,top to 80%
+Maine Ave & 9th St SW,1231.0,0.953968253968254,top to 80%
+17th St & Independence Ave SW,1213.0,0.9523809523809523,top to 80%
+5th St & Massachusetts Ave NW,1210.0,0.9507936507936507,top to 80%
+15th St & Constitution Ave NW,1203.0,0.9492063492063492,top to 80%
+23rd & M St NW,1181.0,0.9476190476190476,top to 80%
+34th & Water St NW,1171.0,0.946031746031746,top to 80%
+Hains Point/Buckeye & Ohio Dr SW,1147.0,0.9444444444444444,top to 80%
+Columbus Circle / Union Station,1140.0,0.9428571428571428,top to 80%
+Adams Mill & Columbia Rd NW,1138.0,0.9412698412698413,top to 80%
+Columbia & Ontario Rd NW,1130.0,0.9396825396825397,top to 80%
+Maine Ave & 7th St SW,1121.0,0.9380952380952381,top to 80%
+New Hampshire Ave & Ward Pl NW,1085.0,0.9365079365079365,top to 80%
+M St & Pennsylvania Ave NW,1078.0,0.9349206349206349,top to 80%
+3rd & H St NE,1070.0,0.9333333333333333,top to 80%
+Eastern Market Metro / Pennsylvania Ave & 7th St SE,1069.0,0.9317460317460318,top to 80%
+Woodley Park Metro / Calvert St & Connecticut Ave NW,1054.0,0.9293650793650794,top to 80%
+Constitution Ave & 2nd St NW/DOL,1054.0,0.9293650793650794,top to 80%
+25th St & Pennsylvania Ave NW,1030.0,0.926984126984127,top to 80%
+Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,1026.0,0.9253968253968254,top to 80%
+18th St & Wyoming Ave NW,1017.0,0.9238095238095239,top to 80%
+Columbia Rd & Belmont St NW,1010.0,0.9222222222222223,top to 80%
+18th & New Hampshire Ave NW,1000.0,0.9206349206349206,top to 80%
+14th & Belmont St NW,991.0,0.919047619047619,top to 80%
+1st & Rhode Island Ave NW,981.0,0.9174603174603174,top to 80%
+Lincoln Park / 13th & East Capitol St NE ,979.0,0.9158730158730158,top to 80%
+11th & O St NW,978.0,0.9142857142857143,top to 80%
+22nd & P ST NW,973.0,0.9126984126984127,top to 80%
+22nd & I St NW / Foggy Bottom,964.0,0.9111111111111111,top to 80%
+20th St & Florida Ave NW,957.0,0.9095238095238095,top to 80%
+11th & Girard St NW,956.0,0.9079365079365079,top to 80%
+7th & T St NW,955.0,0.9063492063492063,top to 80%
+Georgetown Harbor / 30th St NW,953.0,0.9047619047619048,top to 80%
+Roosevelt Island,945.0,0.9031746031746032,top to 80%
+Eckington Pl & Q St NE,923.0,0.9015873015873016,top to 80%
+New Hampshire Ave & 24th St NW,868.0,0.9,top to 80%
+18th & R St NW,843.0,0.8984126984126984,top to 80%
+10th & Florida Ave NW,835.0,0.8968253968253969,top to 80%
+Potomac & M St NW,827.0,0.8952380952380953,top to 80%
+17th St & Massachusetts Ave NW,819.0,0.8936507936507937,top to 80%
+7th & F St NW / National Portrait Gallery,797.0,0.8920634920634921,top to 80%
+14th & Newton St NW,792.0,0.8904761904761904,top to 80%
+Lynn St & 19th St North,784.0,0.8888888888888888,top to 80%
+11th & Kenyon St NW,783.0,0.8865079365079365,top to 80%
+11th & Park Rd NW,783.0,0.8865079365079365,top to 80%
+1st & K St NE,781.0,0.8841269841269841,top to 80%
+Park Rd & Holmead Pl NW,780.0,0.8825396825396825,top to 80%
+California St & Florida Ave NW,777.0,0.8809523809523809,top to 80%
+8th & H St NW,773.0,0.8793650793650793,top to 80%
+13th & H St NE,758.0,0.8777777777777778,top to 80%
+11th & S St NW,755.0,0.8753968253968254,top to 80%
+Florida Ave & R St NW,755.0,0.8753968253968254,top to 80%
+3rd & Tingey St SE,754.0,0.873015873015873,top to 80%
+3rd & Elm St NW,742.0,0.8714285714285714,top to 80%
+20th & O St NW / Dupont South,726.0,0.8698412698412699,top to 80%
+Convention Center / 7th & M St NW,718.0,0.8674603174603175,top to 80%
+3rd St & Pennsylvania Ave SE,718.0,0.8674603174603175,top to 80%
+Eastern Market / 7th & North Carolina Ave SE,710.0,0.8650793650793651,top to 80%
+Connecticut Ave & R St NW,709.0,0.8634920634920635,top to 80%
+1st & N St  SE,708.0,0.861904761904762,top to 80%
+New Jersey Ave & R St NW,694.0,0.8603174603174604,top to 80%
+Metro Center / 12th & G St NW,691.0,0.8587301587301587,top to 80%
+4th & East Capitol St NE,683.0,0.8571428571428571,top to 80%
+19th St & Constitution Ave NW,680.0,0.8555555555555555,top to 80%
+2nd & G St NE,673.0,0.8539682539682539,top to 80%
+15th & L St NW,671.0,0.8523809523809524,top to 80%
+Union Market,658.0,0.85,top to 80%
+10th & U St NW,658.0,0.85,top to 80%
+Anacostia Park,652.0,0.8476190476190476,top to 80%
+Washington & Independence Ave SW/HHS,651.0,0.846031746031746,top to 80%
+Wisconsin Ave & O St NW,649.0,0.8444444444444444,top to 80%
+10th & K St NW,647.0,0.8428571428571429,top to 80%
+Columbia Rd & Georgia Ave NW,646.0,0.8404761904761905,top to 80%
+3rd & G St SE,646.0,0.8404761904761905,top to 80%
+14th St & Spring Rd NW,645.0,0.8373015873015873,top to 80%
+4th & E St SW,645.0,0.8373015873015873,top to 80%
+12th & L St NW,642.0,0.8341269841269842,top to 80%
+14th & L St NW,642.0,0.8341269841269842,top to 80%
+7th & K St NW,637.0,0.8317460317460318,top to 80%
+2nd St & Massachusetts Ave NE,632.0,0.8301587301587302,top to 80%
+4th & M St SE,628.0,0.8285714285714286,top to 80%
+16th & R St NW,622.0,0.8269841269841269,top to 80%
+12th & U St NW,609.0,0.8253968253968254,top to 80%
+18th & M St NW,605.0,0.823015873015873,top to 80%
+Eads St & 12th St S,605.0,0.823015873015873,top to 80%
+7th & R St NW / Shaw Library,598.0,0.8206349206349206,top to 80%
+14th & Otis Pl NW,595.0,0.8182539682539682,top to 80%
+15th & M St NW,595.0,0.8182539682539682,top to 80%
+Georgia & New Hampshire Ave NW,590.0,0.8158730158730159,top to 80%
+C & O Canal & Wisconsin Ave NW,577.0,0.8142857142857143,top to 80%
+Wisconsin Ave & Newark St NW,571.0,0.8126984126984127,top to 80%
+1st & M St SE,550.0,0.8103174603174603,top to 80%
+Potomac & Pennsylvania Ave SE,550.0,0.8103174603174603,top to 80%
+17th & K St NW,543.0,0.807936507936508,top to 80%
+10th & E St NW,534.0,0.8063492063492064,top to 80%
+23rd & E St NW ,533.0,0.8047619047619048,top to 80%
+39th & Calvert St NW / Stoddert,529.0,0.8031746031746032,top to 80%
+4th & C St SW,524.0,0.8015873015873016,top to 80%
+New York Ave & Hecht Ave NE,520.0,0.8,80% to 60%
+15th St & Pennsylvania Ave NW,517.0,0.7984126984126985,80% to 60%
+1st & H St NW,515.0,0.7968253968253968,80% to 60%
+20th & L St NW,511.0,0.7952380952380952,80% to 60%
+31st & Water St NW,461.0,0.7936507936507936,80% to 60%
+1st & O St NW,460.0,0.792063492063492,80% to 60%
+22nd St & Constitution Ave NW,452.0,0.7904761904761904,80% to 60%
+17th & G St NW,451.0,0.7888888888888889,80% to 60%
+7th & S St NW,446.0,0.7873015873015873,80% to 60%
+37th & O St NW / Georgetown University,445.0,0.7857142857142857,80% to 60%
+3rd & H St NW,442.0,0.7841269841269841,80% to 60%
+Iwo Jima Memorial / Meade & 14th St N,438.0,0.7825396825396825,80% to 60%
+16th & Irving St NW,436.0,0.780952380952381,80% to 60%
+Prince St & Union St,435.0,0.7785714285714286,80% to 60%
+1st & D St SE,435.0,0.7785714285714286,80% to 60%
+Kingman Island/The Fields at RFK,430.0,0.7761904761904762,80% to 60%
+Reservoir Rd & 38th St NW,429.0,0.7746031746031746,80% to 60%
+New Jersey Ave & N St NW/Dunbar HS,425.0,0.773015873015873,80% to 60%
+18th & L St NW,422.0,0.7714285714285715,80% to 60%
+6th St & Indiana Ave NW,419.0,0.7698412698412699,80% to 60%
+21st & I St NW,415.0,0.7682539682539683,80% to 60%
+8th & D St NW,414.0,0.7666666666666667,80% to 60%
+7th St & Massachusetts Ave NE,404.0,0.765079365079365,80% to 60%
+Rhode Island & Connecticut Ave NW,402.0,0.7634920634920634,80% to 60%
+5th & F St NW,401.0,0.7619047619047619,80% to 60%
+13th St & New York Ave NW,396.0,0.7603174603174603,80% to 60%
+10th St & Constitution Ave NW,395.0,0.7587301587301587,80% to 60%
+Calvert St & Woodley Pl NW,387.0,0.7563492063492063,80% to 60%
+14th & Q St NW,387.0,0.7563492063492063,80% to 60%
+3rd & D St SE,385.0,0.753968253968254,80% to 60%
+3000 Connecticut Ave NW / National Zoo,382.0,0.7523809523809524,80% to 60%
+11th & C St SE,380.0,0.7507936507936508,80% to 60%
+13th & D St NE,377.0,0.7484126984126984,80% to 60%
+15th St & Massachusetts Ave SE,377.0,0.7484126984126984,80% to 60%
+Georgia Ave & Morton St NW,374.0,0.746031746031746,80% to 60%
+24th & R St NE / National Arboretum,372.0,0.7444444444444445,80% to 60%
+1st & Washington Hospital Center NW,370.0,0.7420634920634921,80% to 60%
+Court House Metro / 15th St & N Uhle St,370.0,0.7420634920634921,80% to 60%
+8th & F St NE,369.0,0.7396825396825397,80% to 60%
+D St & Maryland Ave NE,367.0,0.7380952380952381,80% to 60%
+New York Ave & 15th St NW,366.0,0.7365079365079366,80% to 60%
+34th St & Wisconsin Ave NW,365.0,0.734920634920635,80% to 60%
+10th St & L'Enfant Plaza SW,361.0,0.7317460317460317,80% to 60%
+Virginia Ave & 25th St NW,361.0,0.7317460317460317,80% to 60%
+National Harbor Carousel,361.0,0.7317460317460317,80% to 60%
+M St & New Jersey Ave SE,360.0,0.7285714285714285,80% to 60%
+11th & H St NE,357.0,0.726984126984127,80% to 60%
+Connecticut Ave & Newark St NW / Cleveland Park,351.0,0.7253968253968254,80% to 60%
+Anacostia Ave & Benning Rd NE / River Terrace ,348.0,0.7238095238095238,80% to 60%
+21st St & Constitution Ave NW,347.0,0.7222222222222222,80% to 60%
+Massachusetts Ave & 6th St NE,344.0,0.7206349206349206,80% to 60%
+Army Navy Dr & S Joyce St,340.0,0.719047619047619,80% to 60%
+N Lynn St & Fairfax Dr,339.0,0.7174603174603175,80% to 60%
+North Capitol & R St NE,337.0,0.7150793650793651,80% to 60%
+14th & Girard St NW,337.0,0.7150793650793651,80% to 60%
+8th & East Capitol St NE,329.0,0.7126984126984127,80% to 60%
+18th St & Pennsylvania Ave NW,327.0,0.7103174603174603,80% to 60%
+Rhode Island Ave Metro,327.0,0.7103174603174603,80% to 60%
+24th & N St NW,319.0,0.707936507936508,80% to 60%
+Potomac Ave & Swann Ave,318.0,0.7055555555555556,80% to 60%
+20th & E St NW,318.0,0.7055555555555556,80% to 60%
+Maryland Ave & E St NE,316.0,0.7031746031746032,80% to 60%
+12th St & Pennsylvania Ave SE,315.0,0.7015873015873015,80% to 60%
+15th & East Capitol St NE,314.0,0.7,80% to 60%
+8th & Eye St SE / Barracks Row,312.0,0.6984126984126984,80% to 60%
+13th & U St NW,311.0,0.696031746031746,80% to 60%
+Vermont Ave & I St NW,311.0,0.696031746031746,80% to 60%
+Eastern Market Metro / Pennsylvania Ave & 8th St SE,309.0,0.6936507936507936,80% to 60%
+USDA / 12th & C St SW,304.0,0.692063492063492,80% to 60%
+Kennedy Center,300.0,0.6904761904761905,80% to 60%
+Crystal Dr & 23rd St S,298.0,0.6888888888888889,80% to 60%
+14th & G St NW,292.0,0.6873015873015873,80% to 60%
+18th & C St NW,288.0,0.6857142857142857,80% to 60%
+North Capitol St & F St NW,285.0,0.6841269841269841,80% to 60%
+22nd & H St NW,284.0,0.6825396825396826,80% to 60%
+Harvard St & Adams Mill Rd NW,283.0,0.680952380952381,80% to 60%
+US Dept of State / Virginia Ave & 21st St NW,282.0,0.6793650793650794,80% to 60%
+14th St & New York Ave NW,281.0,0.6777777777777778,80% to 60%
+17th & K St NW / Farragut Square,272.0,0.6761904761904762,80% to 60%
+14th & D St NW / Ronald Reagan Building,265.0,0.6746031746031746,80% to 60%
+Clarendon Blvd & Pierce St,264.0,0.6730158730158731,80% to 60%
+Ballston Metro / Stuart St & 9th St N,263.0,0.6714285714285714,80% to 60%
+14th & Harvard St NW,262.0,0.6698412698412698,80% to 60%
+4th & W St NE,261.0,0.6682539682539682,80% to 60%
+2nd St & Seaton Pl NE,259.0,0.6666666666666666,80% to 60%
+L'Enfant Plaza / 7th & C St SW,255.0,0.665079365079365,80% to 60%
+14th & D St SE,249.0,0.6634920634920635,80% to 60%
+Crystal Dr & 20th St S,247.0,0.6619047619047619,80% to 60%
+Mt Vernon Trail & S. Washington St.,244.0,0.6603174603174603,80% to 60%
+S Glebe Rd & Potomac Ave,241.0,0.6579365079365079,80% to 60%
+15th & F St NE,241.0,0.6579365079365079,80% to 60%
+Madison St & Fairfax St,236.0,0.6555555555555556,80% to 60%
+Van Ness Metro / UDC,235.0,0.653968253968254,80% to 60%
+Bethesda Ave & Arlington Rd,231.0,0.6523809523809524,80% to 60%
+10th & G St NW,230.0,0.6507936507936508,80% to 60%
+River Rd & Landy Ln,229.0,0.6492063492063492,80% to 60%
+Independence Ave & L'Enfant Plaza SW/DOE,227.0,0.6476190476190476,80% to 60%
+Market Square / King St & Royal St,222.0,0.6452380952380953,80% to 60%
+Tenleytown / Wisconsin Ave & Albemarle St NW,222.0,0.6452380952380953,80% to 60%
+19th & K St NW,218.0,0.6428571428571429,80% to 60%
+14th St & Colorado Ave NW,217.0,0.6412698412698413,80% to 60%
+9th & Upshur St NW,216.0,0.6396825396825396,80% to 60%
+6th & K St NE,215.0,0.638095238095238,80% to 60%
+Crystal Dr & 15th St S,214.0,0.6365079365079365,80% to 60%
+New Jersey Ave & F St NW,212.0,0.6349206349206349,80% to 60%
+10th & Monroe St NE,209.0,0.6317460317460317,80% to 60%
+Clarendon Metro / Wilson Blvd & N Highland St,209.0,0.6317460317460317,80% to 60%
+11th & F St NW,209.0,0.6317460317460317,80% to 60%
+Connecticut & Nebraska Ave NW,203.0,0.6285714285714286,80% to 60%
+8th & K St NE,202.0,0.6261904761904762,80% to 60%
+Pentagon City Metro / 12th St & S Hayes St,202.0,0.6261904761904762,80% to 60%
+36th & Calvert St NW / Glover Park,200.0,0.6238095238095238,80% to 60%
+Calvert & Biltmore St NW,190.0,0.6222222222222222,80% to 60%
+Potomac Ave & Half St SW,186.0,0.6206349206349207,80% to 60%
+S Arlington Mill Dr & Campbell Ave,185.0,0.6190476190476191,80% to 60%
+15th & K St NW,183.0,0.6174603174603175,80% to 60%
+Connecticut Ave & Tilden St NW,180.0,0.6158730158730159,80% to 60%
+Edgewood Rec Center,178.0,0.6142857142857143,80% to 60%
+Wilson Blvd & N Quincy St,175.0,0.6126984126984127,80% to 60%
+Maryland Ave & 17th St NE,174.0,0.6111111111111112,80% to 60%
+Kansas Ave & Sherman Cr NW,171.0,0.6095238095238096,80% to 60%
+Woodmont Ave & Strathmore St,167.0,0.6079365079365079,80% to 60%
+Lee Hwy & N Scott St,165.0,0.6063492063492063,80% to 60%
+19th & East Capitol St SE,164.0,0.6047619047619047,80% to 60%
+21st St & Pennsylvania Ave NW,162.0,0.6031746031746031,80% to 60%
+Rosslyn Metro / Wilson Blvd & Ft Myer Dr,158.0,0.6015873015873016,80% to 60%
+4th St & G St SW,155.0,0.6,60% to 40%
+Oklahoma Ave & D St NE,153.0,0.5976190476190476,60% to 40%
+15th St & N Scott St,153.0,0.5976190476190476,60% to 40%
+Virginia Square Metro / Monroe St & 9th St N,149.0,0.5944444444444444,60% to 40%
+Rhode Island Ave & V St NE,149.0,0.5944444444444444,60% to 40%
+Franklin St & S Washington St,147.0,0.5920634920634921,60% to 40%
+8th & H St NE,143.0,0.5904761904761905,60% to 40%
+4th & D St NW / Judiciary Square,141.0,0.5888888888888889,60% to 40%
+Bladensburg Rd & Benning Rd NE,139.0,0.5873015873015873,60% to 40%
+13th & E St SE,136.0,0.5857142857142857,60% to 40%
+Royal St & Wilkes St,135.0,0.5833333333333334,60% to 40%
+Potomac Ave & 8th St SE,135.0,0.5833333333333334,60% to 40%
+John McCormack Dr & Michigan Ave NE,134.0,0.580952380952381,60% to 40%
+North Capitol St & G Pl NE,132.0,0.5785714285714286,60% to 40%
+Wilson Blvd & N Troy St,132.0,0.5785714285714286,60% to 40%
+19th St & Pennsylvania Ave NW,131.0,0.5753968253968254,60% to 40%
+Grant Circle,131.0,0.5753968253968254,60% to 40%
+Tanger Outlets,128.0,0.5722222222222222,60% to 40%
+Connecticut Ave & Yuma St NW,128.0,0.5722222222222222,60% to 40%
+Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center,127.0,0.5698412698412698,60% to 40%
+7th & E St SW,125.0,0.5682539682539682,60% to 40%
+21st St & G st NW,123.0,0.5666666666666667,60% to 40%
+King Greenleaf Rec Center,119.0,0.5642857142857143,60% to 40%
+19th & G St NW,119.0,0.5642857142857143,60% to 40%
+Georgia Ave and Fairmont St NW,111.0,0.5619047619047619,60% to 40%
+Oklahoma Ave & Benning Rd NE,108.0,0.5595238095238095,60% to 40%
+Joyce St & 16th St S,108.0,0.5595238095238095,60% to 40%
+Washington Blvd & 10th St N,107.0,0.5571428571428572,60% to 40%
+Central Library / Quincy St & 10th St N,106.0,0.5555555555555556,60% to 40%
+20th St & Virginia Ave NW,105.0,0.553968253968254,60% to 40%
+Crystal City Metro / 18th St & S Bell St,103.0,0.5507936507936508,60% to 40%
+Eads St & 22nd St S,103.0,0.5507936507936508,60% to 40%
+Friendship Blvd & Willard Ave,103.0,0.5507936507936508,60% to 40%
+Braddock Rd Metro,99.0,0.5476190476190477,60% to 40%
+Montello Ave & Holbrook Terr NE,95.0,0.546031746031746,60% to 40%
+N Veitch St & 20th St N,93.0,0.5444444444444444,60% to 40%
+Fenton St & Ellsworth Dr ,92.0,0.542063492063492,60% to 40%
+39th & Veazey St NW,92.0,0.542063492063492,60% to 40%
+Fairfax Dr & Wilson Blvd,91.0,0.5396825396825397,60% to 40%
+Fort Totten Metro,89.0,0.5380952380952381,60% to 40%
+17th & Upshur St NW,87.0,0.5365079365079365,60% to 40%
+48th Pl & MacArthur Blvd NW,86.0,0.5341269841269841,60% to 40%
+Riverdale Park Town Center,86.0,0.5341269841269841,60% to 40%
+Wisconsin Ave & Brandywine St NW,85.0,0.530952380952381,60% to 40%
+Fleet St & Waterfront St,85.0,0.530952380952381,60% to 40%
+Battery Ln & Trolley Trail,84.0,0.5285714285714286,60% to 40%
+1st St & Potomac Ave SE,83.0,0.5261904761904762,60% to 40%
+14th & Upshur St NW,83.0,0.5261904761904762,60% to 40%
+Rosedale Rec Center,81.0,0.5238095238095238,60% to 40%
+Arlington Blvd & N Queen St,79.0,0.5206349206349207,60% to 40%
+18th St & S Eads St,79.0,0.5206349206349207,60% to 40%
+Connecticut Ave & McKinley St NW,79.0,0.5206349206349207,60% to 40%
+28th St & S Meade St,78.0,0.5166666666666667,60% to 40%
+Neal St & Trinidad Ave NE,78.0,0.5166666666666667,60% to 40%
+Four Mile Run Dr & S Walter Reed Dr,77.0,0.5134920634920634,60% to 40%
+Clarendon Blvd & N Fillmore St,77.0,0.5134920634920634,60% to 40%
+Eads St & 15th St S,76.0,0.5111111111111111,60% to 40%
+Takoma Metro,74.0,0.5095238095238095,60% to 40%
+Dunn Loring Metro,72.0,0.5071428571428571,60% to 40%
+20th & Columbia Rd NW,72.0,0.5071428571428571,60% to 40%
+East Falls Church Metro / Sycamore St & 19th St N,71.0,0.503968253968254,60% to 40%
+Saint Asaph St & Madison St,71.0,0.503968253968254,60% to 40%
+George Mason Dr & Wilson Blvd,70.0,0.5007936507936508,60% to 40%
+TJ Cmty Ctr / 2nd St & S Old Glebe Rd,70.0,0.5007936507936508,60% to 40%
+Ward Circle / American University,69.0,0.4976190476190476,60% to 40%
+Hamlin & 7th St NE,69.0,0.4976190476190476,60% to 40%
+Baltimore Ave & Jefferson St,68.0,0.49444444444444446,60% to 40%
+Utah St & 11th St N,68.0,0.49444444444444446,60% to 40%
+Rhodes St & 16th St N,66.0,0.49206349206349204,60% to 40%
+Potomac Ave & 35th St S,64.0,0.48968253968253966,60% to 40%
+John McCormack Rd NE,64.0,0.48968253968253966,60% to 40%
+Georgia & Missouri Ave NW,63.0,0.4873015873015873,60% to 40%
+Four Mile Run Dr & S Shirlington Rd,60.0,0.48412698412698413,60% to 40%
+Wilson Blvd & N Edgewood St,60.0,0.48412698412698413,60% to 40%
+Wilson Blvd & N Uhle St,60.0,0.48412698412698413,60% to 40%
+American University East Campus,59.0,0.4793650793650794,60% to 40%
+Fairfax Dr & N Randolph St,59.0,0.4793650793650794,60% to 40%
+Crystal Dr & 27th St S,59.0,0.4793650793650794,60% to 40%
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,58.0,0.47619047619047616,60% to 40%
+21st St & N Pierce St,57.0,0.4738095238095238,60% to 40%
+12th & Irving St NE,57.0,0.4738095238095238,60% to 40%
+Troy St & 26th St S,55.0,0.46904761904761905,60% to 40%
+Eisenhower Ave & Mill Race Ln,55.0,0.46904761904761905,60% to 40%
+Hardy Rec Center,55.0,0.46904761904761905,60% to 40%
+Barcroft Community Center,55.0,0.46904761904761905,60% to 40%
+Wilson Blvd. & N. Vermont St.,54.0,0.4626984126984127,60% to 40%
+Mount Vernon Ave & Four Mile Run Park,54.0,0.4626984126984127,60% to 40%
+S George Mason & Four Mile Run Dr,54.0,0.4626984126984127,60% to 40%
+Wilson Blvd & N Illinois St ,54.0,0.4626984126984127,60% to 40%
+Sunset Hills Rd & Isaac Newton Square,52.0,0.4587301587301587,60% to 40%
+Potomac Greens Dr & Slaters Ln,50.0,0.45634920634920634,60% to 40%
+3rd St & Riggs Rd NE,50.0,0.45634920634920634,60% to 40%
+Washington-Liberty High School / N Stafford St & Generals Way,49.0,0.4523809523809524,60% to 40%
+King St Metro North / Cameron St,49.0,0.4523809523809524,60% to 40%
+King St & Patrick St,49.0,0.4523809523809524,60% to 40%
+New Hampshire & Gallatin St NW,48.0,0.4492063492063492,60% to 40%
+Key Blvd & N Quinn St,47.0,0.44682539682539685,60% to 40%
+Wisconsin Ave & Ingomar St NW,47.0,0.44682539682539685,60% to 40%
+Baltimore Ave & Van Buren St / Riverdale Park Station,46.0,0.4444444444444444,60% to 40%
+Lee Hwy & N Adams St,45.0,0.44285714285714284,60% to 40%
+14th & Luzon St NW,44.0,0.44126984126984126,60% to 40%
+Aurora Hills Cmty Ctr / 18th St & S Hayes St,43.0,0.4380952380952381,60% to 40%
+Long Bridge Park / Long Bridge Dr & 6th St S,43.0,0.4380952380952381,60% to 40%
+Silver Spring Metro / Colesville Rd & Wayne Ave,43.0,0.4380952380952381,60% to 40%
+5th & Kennedy St NW,42.0,0.43492063492063493,60% to 40%
+Mount Vernon Ave & Kennedy St,41.0,0.430952380952381,60% to 40%
+Duke St & John Carlyle St,41.0,0.430952380952381,60% to 40%
+Gallaudet / 8th St & Florida Ave NE,41.0,0.430952380952381,60% to 40%
+Briggs Chaney Park & Ride,41.0,0.430952380952381,60% to 40%
+Good Hope Rd & MLK Ave SE,40.0,0.42698412698412697,60% to 40%
+19th & E Street NW,39.0,0.4246031746031746,60% to 40%
+Old Georgetown Rd & Southwick St,39.0,0.4246031746031746,60% to 40%
+Rhode Island Ave & 39th St / Brentwood Arts Exchange,38.0,0.41984126984126985,60% to 40%
+Wilson Blvd & N Franklin Rd,38.0,0.41984126984126985,60% to 40%
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,38.0,0.41984126984126985,60% to 40%
+N Quincy St & Glebe Rd,38.0,0.41984126984126985,60% to 40%
+Georgia Ave & Emerson St NW,37.0,0.41349206349206347,60% to 40%
+Trinidad Rec Center,37.0,0.41349206349206347,60% to 40%
+King St Metro South,37.0,0.41349206349206347,60% to 40%
+East West Hwy & Blair Mill Rd,37.0,0.41349206349206347,60% to 40%
+Anacostia Roller Skating Pavillion,36.0,0.40714285714285714,60% to 40%
+GMU / Fairfax Dr & Kenmore St,36.0,0.40714285714285714,60% to 40%
+3rd & Underwood St NW,36.0,0.40714285714285714,60% to 40%
+Woodglen Dr & Executive Blvd,36.0,0.40714285714285714,60% to 40%
+Arlington Mill Cmty Center / Columbia Pike & S Dinwiddie St,35.0,0.39920634920634923,40% to 20%
+Rhode Island & Montana Ave NE,35.0,0.39920634920634923,40% to 20%
+Potomac Ave & Main Line Blvd,35.0,0.39920634920634923,40% to 20%
+4th St & Mississippi Ave SE,35.0,0.39920634920634923,40% to 20%
+Columbia Pike & S Courthouse Rd,35.0,0.39920634920634923,40% to 20%
+Lee Hwy & N Monroe St,35.0,0.39920634920634923,40% to 20%
+West Hyattsville Metro,34.0,0.39285714285714285,40% to 20%
+King Farm Blvd & Pleasant Dr,34.0,0.39285714285714285,40% to 20%
+Georgia Ave & Piney Branch Rd NW,33.0,0.3888888888888889,40% to 20%
+Georgia Ave & Kennedy St NW,33.0,0.3888888888888889,40% to 20%
+Reston Town Center Transit Station,33.0,0.3888888888888889,40% to 20%
+Wilson Blvd & N Oak St,32.0,0.38412698412698415,40% to 20%
+Merrifield Cinema & Merrifield Town Center,32.0,0.38412698412698415,40% to 20%
+Commerce St & Fayette St,32.0,0.38412698412698415,40% to 20%
+Monroe Ave & Leslie Ave,31.0,0.38095238095238093,40% to 20%
+Carlin Springs Rd & N Thomas St,30.0,0.376984126984127,40% to 20%
+Columbia Pike & S Orme St,30.0,0.376984126984127,40% to 20%
+Pershing Dr & Wayne St,30.0,0.376984126984127,40% to 20%
+1st & S Capitol St SE / Oxon Run Trail,30.0,0.376984126984127,40% to 20%
+N Veitch St & Key Blvd,29.0,0.373015873015873,40% to 20%
+Henry St & Pendleton St,28.0,0.3674603174603175,40% to 20%
+Pershing Dr & N George Mason Dr,28.0,0.3674603174603175,40% to 20%
+Mount Vernon Ave & E Del Ray Ave,28.0,0.3674603174603175,40% to 20%
+Mount Vernon Ave & E Nelson Ave,28.0,0.3674603174603175,40% to 20%
+Montgomery & East Ln,28.0,0.3674603174603175,40% to 20%
+Kenilworth Terrace & Hayes St. NE,28.0,0.3674603174603175,40% to 20%
+Ballenger Ave & Dulaney St,27.0,0.3595238095238095,40% to 20%
+N Roosevelt St & Roosevelt Blvd,27.0,0.3595238095238095,40% to 20%
+Rolfe St & 9th St S,27.0,0.3595238095238095,40% to 20%
+Barton St & 10th St N,27.0,0.3595238095238095,40% to 20%
+Prince George's Plaza Metro,26.0,0.3531746031746032,40% to 20%
+Shirlington Transit Center / Quincy St & Randolph St,26.0,0.3531746031746032,40% to 20%
+Sunset Hills & Old Reston Ave,26.0,0.3531746031746032,40% to 20%
+Veterans Pl & Pershing Dr ,26.0,0.3531746031746032,40% to 20%
+12th & Newton St NE,25.0,0.34444444444444444,40% to 20%
+The Mall at Prince Georges,25.0,0.34444444444444444,40% to 20%
+Lee Hwy & N Kirkwood Rd,25.0,0.34444444444444444,40% to 20%
+Thomas Jefferson St NW & Water/K St NW,25.0,0.34444444444444444,40% to 20%
+Glebe Rd & 11th St N,25.0,0.34444444444444444,40% to 20%
+George Mason High School / Haycock Rd & Leesburg Pike,25.0,0.34444444444444444,40% to 20%
+Pennsylvania & Minnesota Ave SE,25.0,0.34444444444444444,40% to 20%
+Washington Blvd & Walter Reed Dr ,24.0,0.3333333333333333,40% to 20%
+Arlington Blvd & Fillmore St,24.0,0.3333333333333333,40% to 20%
+Queens Chapel & Hamilton St,24.0,0.3333333333333333,40% to 20%
+Columbia Pike & S Taylor St,24.0,0.3333333333333333,40% to 20%
+Columbia Pike & S Walter Reed Dr,24.0,0.3333333333333333,40% to 20%
+16th & Q St SE / Anacostia HS,24.0,0.3333333333333333,40% to 20%
+Deanwood Rec Center,24.0,0.3333333333333333,40% to 20%
+Norfolk Ave & Fairmont St,23.0,0.3261904761904762,40% to 20%
+15th & Harvard St NW,23.0,0.3261904761904762,40% to 20%
+47th & Elm St,22.0,0.31587301587301586,40% to 20%
+Powhatan St & Bashford Ln,22.0,0.31587301587301586,40% to 20%
+Crystal Dr & Potomac Ave,22.0,0.31587301587301586,40% to 20%
+East West Hwy & 16th St,22.0,0.31587301587301586,40% to 20%
+Stadium Armory Metro,22.0,0.31587301587301586,40% to 20%
+Clark St & 26th St S,22.0,0.31587301587301586,40% to 20%
+Minnesota Ave & R St SE,22.0,0.31587301587301586,40% to 20%
+18th St & Rhode Island Ave NE,22.0,0.31587301587301586,40% to 20%
+Kennebec St & 11th St N,22.0,0.31587301587301586,40% to 20%
+N. Beauregard St. & Berkley St.,22.0,0.31587301587301586,40% to 20%
+Mount Vernon Ave & Bruce St,22.0,0.31587301587301586,40% to 20%
+Walter Reed Dr & 8th St S,21.0,0.30238095238095236,40% to 20%
+Anacostia Metro,21.0,0.30238095238095236,40% to 20%
+Motivate BX Tech office,21.0,0.30238095238095236,40% to 20%
+Valley Ave & Wheeler Rd SE,21.0,0.30238095238095236,40% to 20%
+Offutt Ln & Chevy Chase Dr,21.0,0.30238095238095236,40% to 20%
+Maple & Ritchie Ave,21.0,0.30238095238095236,40% to 20%
+Lee Hwy & N Cleveland St,20.0,0.29523809523809524,40% to 20%
+Lee Hwy & N Woodstock St,20.0,0.29523809523809524,40% to 20%
+Capitol Ave & Kendall St NE,20.0,0.29523809523809524,40% to 20%
+Madison St & N Henry St,19.0,0.28809523809523807,40% to 20%
+Merrilee Dr & Lauren Elizabeth Lane,19.0,0.28809523809523807,40% to 20%
+Norfolk & Rugby Ave,19.0,0.28809523809523807,40% to 20%
+14th St Heights / 14th & Crittenden St NW,19.0,0.28809523809523807,40% to 20%
+Good Hope Rd & 14th St SE,19.0,0.28809523809523807,40% to 20%
+Fallsgrove Blvd & Fallsgrove Dr,19.0,0.28809523809523807,40% to 20%
+18th & Monroe St NE,18.0,0.28174603174603174,40% to 20%
+Fessenden St & Wisconsin Ave NW,18.0,0.28174603174603174,40% to 20%
+Library St & Freedom Dr,17.0,0.2746031746031746,40% to 20%
+Pennsylvania Ave & Park Ave,17.0,0.2746031746031746,40% to 20%
+Pooks Hill Rd & Linden Ave,17.0,0.2746031746031746,40% to 20%
+St Asaph & Pendleton St,17.0,0.2746031746031746,40% to 20%
+Washington Blvd & 7th St N,17.0,0.2746031746031746,40% to 20%
+Riggs Rd & East West Hwy,17.0,0.2746031746031746,40% to 20%
+13th St & Eastern Ave,17.0,0.2746031746031746,40% to 20%
+E Montgomery Ave & Maryland Ave,16.0,0.26587301587301587,40% to 20%
+Key West Ave & Diamondback Dr,16.0,0.26587301587301587,40% to 20%
+Wakefield High School,16.0,0.26587301587301587,40% to 20%
+Oglethorpe St & 42nd Ave,16.0,0.26587301587301587,40% to 20%
+Benning Rd & East Capitol St NE / Benning Rd Metro,15.0,0.2611111111111111,40% to 20%
+Pleasant St & MLK Ave SE,15.0,0.2611111111111111,40% to 20%
+Montgomery Ave & Waverly St ,14.0,0.25317460317460316,40% to 20%
+Congress Heights Metro,14.0,0.25317460317460316,40% to 20%
+Half & Water St SW,14.0,0.25317460317460316,40% to 20%
+Castle Blvd & Castle Ln,14.0,0.25317460317460316,40% to 20%
+Falls Church City Hall / Park Ave & Little Falls St,14.0,0.25317460317460316,40% to 20%
+Northwestern High School,14.0,0.25317460317460316,40% to 20%
+Amherst Ave & Elkins St,14.0,0.25317460317460316,40% to 20%
+New Dominion Pkwy & Fountain Dr,14.0,0.25317460317460316,40% to 20%
+Briggs Chaney & Castle Dr,13.0,0.24126984126984127,40% to 20%
+Windham Ln & Amherst Ave,13.0,0.24126984126984127,40% to 20%
+North Shore Dr & Village Rd,13.0,0.24126984126984127,40% to 20%
+Key West Ave & Siesta Key Way,13.0,0.24126984126984127,40% to 20%
+Yuma St & Tenley Circle NW,13.0,0.24126984126984127,40% to 20%
+Monroe St & Monroe Pl,13.0,0.24126984126984127,40% to 20%
+Cordell & Norfolk Ave,13.0,0.24126984126984127,40% to 20%
+Army Navy Dr & S Nash St,12.0,0.22936507936507936,40% to 20%
+Carroll & Westmoreland Ave,12.0,0.22936507936507936,40% to 20%
+Twinbrook Metro,12.0,0.22936507936507936,40% to 20%
+Lee Center,12.0,0.22936507936507936,40% to 20%
+Duke St & Strand (Robinson Terminal),12.0,0.22936507936507936,40% to 20%
+Wilson Blvd & N Quinn St,12.0,0.22936507936507936,40% to 20%
+Commonwealth Ave & E Monroe Ave,12.0,0.22936507936507936,40% to 20%
+Nannie Helen Burroughs Ave & 49th St NE,12.0,0.22936507936507936,40% to 20%
+Commonwealth Ave & Oak St,11.0,0.21349206349206348,40% to 20%
+Minnesota Ave Metro/DOES,11.0,0.21349206349206348,40% to 20%
+Wheaton Metro / Georgia Ave & Reedie Dr,11.0,0.21349206349206348,40% to 20%
+3rd & M st SE,11.0,0.21349206349206348,40% to 20%
+Arlington Blvd & Fairfax Dr,11.0,0.21349206349206348,40% to 20%
+Takoma Park Rec Center,11.0,0.21349206349206348,40% to 20%
+Vy Reston Heights,11.0,0.21349206349206348,40% to 20%
+Fallsgrove Dr & W Montgomery Ave,11.0,0.21349206349206348,40% to 20%
+Livingston Rd & 3rd St SE,11.0,0.21349206349206348,40% to 20%
+Sligo Ave & Carroll Ln,11.0,0.21349206349206348,40% to 20%
+61st St & Banks Pl NE,11.0,0.21349206349206348,40% to 20%
+Alabama Ave & Stanton Rd SE / Shops at Park Village,11.0,0.21349206349206348,40% to 20%
+Division Ave & Foote St NE,10.0,0.19444444444444445,20% to bottom
+Oxon Hill Park & Ride,10.0,0.19444444444444445,20% to bottom
+Alabama & MLK Ave SE,10.0,0.19444444444444445,20% to bottom
+Rockville Pike & Meeting St,10.0,0.19444444444444445,20% to bottom
+WAU / Flower Ave & Division St,10.0,0.19444444444444445,20% to bottom
+King Farm Blvd & Piccard Dr,10.0,0.19444444444444445,20% to bottom
+New Hampshire & Lockwood,10.0,0.19444444444444445,20% to bottom
+Saint Asaph St & Pendleton  St,10.0,0.19444444444444445,20% to bottom
+Wheeler Ave & S. Floyd St.,10.0,0.19444444444444445,20% to bottom
+Dennis Ave & Amherst Ave,10.0,0.19444444444444445,20% to bottom
+Needwood Rd & Eagles Head Ct,10.0,0.19444444444444445,20% to bottom
+N Oak St & W Broad St,10.0,0.19444444444444445,20% to bottom
+Garland Ave & Walden Rd,9.0,0.18015873015873016,20% to bottom
+21st & M St NW,9.0,0.18015873015873016,20% to bottom
+Georgia Ave & Spring St,9.0,0.18015873015873016,20% to bottom
+Amherst Ave & Prichard Rd,9.0,0.18015873015873016,20% to bottom
+Kenmore St & 24th St S,9.0,0.18015873015873016,20% to bottom
+Arlington Blvd & Ft Myer Dr,9.0,0.18015873015873016,20% to bottom
+31st St & S Woodrow St,8.0,0.16746031746031745,20% to bottom
+Carroll & Ethan Allen Ave,8.0,0.16746031746031745,20% to bottom
+Fishers Ln & Rock Creek Mill Rd,8.0,0.16746031746031745,20% to bottom
+N Pitt & Wythe St,8.0,0.16746031746031745,20% to bottom
+E Fairfax St & S Washington St,8.0,0.16746031746031745,20% to bottom
+National Airport,8.0,0.16746031746031745,20% to bottom
+Lyttonsville Rd & Lyttonsville Pl,8.0,0.16746031746031745,20% to bottom
+Westover Library / Washington Blvd & N McKinley Rd,8.0,0.16746031746031745,20% to bottom
+Largo Rd & Campus Way / Prince Georges's Comm Col,8.0,0.16746031746031745,20% to bottom
+Chillum Rd & Riggs Rd / Riggs Plaza,8.0,0.16746031746031745,20% to bottom
+S Maple Ave & S Washington St,7.0,0.1492063492063492,20% to bottom
+Columbia Pike & S Oakland St,7.0,0.1492063492063492,20% to bottom
+Benning Branch Library,7.0,0.1492063492063492,20% to bottom
+Stewart Ln & Old Columbia Pike,7.0,0.1492063492063492,20% to bottom
+Spring St & 2nd Ave,7.0,0.1492063492063492,20% to bottom
+Reston YMCA,7.0,0.1492063492063492,20% to bottom
+Fleet St & Ritchie Pkwy,7.0,0.1492063492063492,20% to bottom
+Perry & 35th St,7.0,0.1492063492063492,20% to bottom
+Corporate Blvd & Omega Dr,7.0,0.1492063492063492,20% to bottom
+2nd & V St SW / James Creek Marina,7.0,0.1492063492063492,20% to bottom
+Hyattsville Library / Adelphi Rd & Toledo Rd,7.0,0.1492063492063492,20% to bottom
+Fenton St & Gist Ave,7.0,0.1492063492063492,20% to bottom
+Fenton St & New York Ave ,7.0,0.1492063492063492,20% to bottom
+Park Run & Onyx Dr,6.0,0.1246031746031746,20% to bottom
+Columbus Ave & Gramercy Blvd,6.0,0.1246031746031746,20% to bottom
+Blueridge Ave & Elkin St,6.0,0.1246031746031746,20% to bottom
+Town Center Pkwy & Bowman Towne Dr,6.0,0.1246031746031746,20% to bottom
+Town Center Pkwy & Sunset Hills Rd,6.0,0.1246031746031746,20% to bottom
+Frederick Ave & Horners Ln,6.0,0.1246031746031746,20% to bottom
+Wiehle Ave & Reston Station Blvd,6.0,0.1246031746031746,20% to bottom
+Grandview & Blueridge Ave,6.0,0.1246031746031746,20% to bottom
+Stewart & April,6.0,0.1246031746031746,20% to bottom
+New Hampshire Ave & East-West Hwy,6.0,0.1246031746031746,20% to bottom
+St. Asaph & Montgomery St,6.0,0.1246031746031746,20% to bottom
+W Broad St & Little Falls St,6.0,0.1246031746031746,20% to bottom
+Westpark Dr & Leesburg Pike,6.0,0.1246031746031746,20% to bottom
+Traville Gateway Dr & Gudelsky Dr,6.0,0.1246031746031746,20% to bottom
+Nannie Helen Burroughs & Minnesota Ave NE,6.0,0.1246031746031746,20% to bottom
+McLean Metro,6.0,0.1246031746031746,20% to bottom
+Randle Circle & Minnesota Ave SE,6.0,0.1246031746031746,20% to bottom
+New Hampshire & Kirklynn Ave,6.0,0.1246031746031746,20% to bottom
+Radford St & Osage St,5.0,0.10158730158730159,20% to bottom
+W Columbia St & N Washington St,5.0,0.10158730158730159,20% to bottom
+Capitol Heights Metro,5.0,0.10158730158730159,20% to bottom
+Medical Center Metro ,5.0,0.10158730158730159,20% to bottom
+Citadel Ave & McGrath Blvd,5.0,0.10158730158730159,20% to bottom
+Largo Town Center Metro,5.0,0.10158730158730159,20% to bottom
+Rockville Pike & Old Georgetown Rd,5.0,0.10158730158730159,20% to bottom
+White Flint Metro,5.0,0.10158730158730159,20% to bottom
+Westpark & Jones Branch Dr,5.0,0.10158730158730159,20% to bottom
+Oak Leaf & Lockwood,5.0,0.10158730158730159,20% to bottom
+Arlington Blvd & S George Mason Dr,5.0,0.10158730158730159,20% to bottom
+Spring Hill Metro,4.0,0.08571428571428572,20% to bottom
+Fairfax Village,4.0,0.08571428571428572,20% to bottom
+Kansas Ave & Longfellow St NW,4.0,0.08571428571428572,20% to bottom
+Jones Branch & Westbranch Dr,4.0,0.08571428571428572,20% to bottom
+Greensboro & International Dr,4.0,0.08571428571428572,20% to bottom
+Congressional Ln & E Jefferson St,4.0,0.08571428571428572,20% to bottom
+Reston Pkwy & Spectrum Dr,4.0,0.08571428571428572,20% to bottom
+Temporary Rd & Old Reston Ave,4.0,0.08571428571428572,20% to bottom
+Silver Spring Transit Center - Top Level,4.0,0.08571428571428572,20% to bottom
+N Howard St & Taney Ave,3.0,0.06428571428571428,20% to bottom
+Shady Grove Metro West,3.0,0.06428571428571428,20% to bottom
+Shady Grove Metro East,3.0,0.06428571428571428,20% to bottom
+S Clark St & 33rd St,3.0,0.06428571428571428,20% to bottom
+23rd St S & Hayes St,3.0,0.06428571428571428,20% to bottom
+Key West Ave & Great Seneca Hwy,3.0,0.06428571428571428,20% to bottom
+N Pitt St & Montgomery St,3.0,0.06428571428571428,20% to bottom
+Fort Stanton Rec Center,3.0,0.06428571428571428,20% to bottom
+Anacostia Library,3.0,0.06428571428571428,20% to bottom
+Greensboro & Pinnacle Dr,3.0,0.06428571428571428,20% to bottom
+West Falls Church Metro,3.0,0.06428571428571428,20% to bottom
+1301 McCormick Dr / Wayne K. Curry Admin Bldg,3.0,0.06428571428571428,20% to bottom
+Mississippi Ave & 19th St SE / THEARC,3.0,0.06428571428571428,20% to bottom
+37th & Ely Pl SE,3.0,0.06428571428571428,20% to bottom
+Towers Crescent Dr & Tysons One Pl,3.0,0.06428571428571428,20% to bottom
+Montgomery College / W Campus Dr & Mannakee St,3.0,0.06428571428571428,20% to bottom
+Broad Branch Rd & Northampton St NW,3.0,0.06428571428571428,20% to bottom
+Reston Regional Library,3.0,0.06428571428571428,20% to bottom
+South Capitol & Atlantic St SW,2.0,0.03888888888888889,20% to bottom
+Westpark & Park Run Dr,2.0,0.03888888888888889,20% to bottom
+State Theatre / Park Pl & N Washington St,2.0,0.03888888888888889,20% to bottom
+Connecticut Ave & Chevy Chase Lake Dr,2.0,0.03888888888888889,20% to bottom
+Tysons West Transit Center,2.0,0.03888888888888889,20% to bottom
+Rockville Metro East,2.0,0.03888888888888889,20% to bottom
+Branch & Pennsylvania Ave SE,2.0,0.03888888888888889,20% to bottom
+The Shoppes @ Burnt Mills,2.0,0.03888888888888889,20% to bottom
+White Oak Transit Center,2.0,0.03888888888888889,20% to bottom
+19th & Savannah St SE,2.0,0.03888888888888889,20% to bottom
+Philadelphia & Maple Ave,2.0,0.03888888888888889,20% to bottom
+Motivate Tech Office,2.0,0.03888888888888889,20% to bottom
+Washington Blvd & N Frederick St,2.0,0.03888888888888889,20% to bottom
+Eisenhower Ave & Ike Dr,2.0,0.03888888888888889,20% to bottom
+White Oak Rec Center,1.0,0.014285714285714285,20% to bottom
+Wheaton Library & Community Rec Center,1.0,0.014285714285714285,20% to bottom
+Joliet St & MLK Ave SW/Bald Eagle Rec Ctr,1.0,0.014285714285714285,20% to bottom
+North Shore & Cameron Crescent Dr/Crescent Apartments,1.0,0.014285714285714285,20% to bottom
+Campus Commons,1.0,0.014285714285714285,20% to bottom
+Ridge Rd Community Center,1.0,0.014285714285714285,20% to bottom
+Medical Center Dr & Key West Ave,1.0,0.014285714285714285,20% to bottom
+Tysons Corner Station,1.0,0.014285714285714285,20% to bottom
+Walter Reed Dr & 16th St S,1.0,0.014285714285714285,20% to bottom
+1st & K NE,1.0,0.014285714285714285,20% to bottom
+Piccard & W Gude Dr,1.0,0.014285714285714285,20% to bottom
+Fern St & Army Navy Dr,1.0,0.014285714285714285,20% to bottom
+Sunset Hills Rd & Discovery Square,1.0,0.014285714285714285,20% to bottom
+Stanton Square SE,1.0,0.014285714285714285,20% to bottom
+Tysons One Pl & Chain Bridge Rd,1.0,0.014285714285714285,20% to bottom
+Executive Blvd & E Jefferson St,1.0,0.014285714285714285,20% to bottom
+Rockville Metro West,1.0,0.014285714285714285,20% to bottom
