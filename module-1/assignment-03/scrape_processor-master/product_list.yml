@@ -1,0 +1,46 @@
+-   product_name: processor
+    main_url:  'https://www.amazon.com/s?k=Processors&rh=n%3A17923671011%2Cn%3A229189&dc&qid=1625813681&rnid=2941120011&ref=sr_nr_n_2'
+    secondary_url: 'https://www.amazon.com/s?k=Processors&i=computers&rh=n%3A17923671011%2Cn%3A229189&dc&page=2&qid=1625813690&rnid=2941120011&ref=sr_pg_2'
+    yml_file: products/processor/processor_description.yml
+    path: 'products/processor/'
+# -   product_name: laptop
+#     main_url:  'https://www.amazon.com/s?k=Laptops&rh=n%3A565108%2Cn%3A13896615011&dc&qid=1625813488&rnid=2941120011&ref=sr_nr_n_2'
+#     secondary_url: 'https://www.amazon.com/s?k=Laptops&i=computers&rh=n%3A565108%2Cn%3A13896615011&dc&page=2&qid=1625813542&rnid=2941120011&ref=sr_pg_2'
+#     yml_file: products/laptops/laptops_description.yml
+#     path: 'products/laptops/'
+# #- monitors:
+# -   product_name: monitor
+#     main_url:  'https://www.amazon.com/s?k=monitor&rh=n%3A541966%2Cn%3A1292115011&dc&qid=1625813496&rnid=2941120011&ref=a9_sc_1'
+#     secondary_url: 'https://www.amazon.com/s?k=monitor&i=computers&rh=n%3A541966%2Cn%3A1292115011&dc&page=2&qid=1625813748&rnid=2941120011&ref=sr_pg_2'
+#     yml_file: products/monitors/monitors_description.yml
+#     path: 'products/monitors/'
+# #- mouses:
+# -   product_name: mouse
+#     main_url:  'https://www.amazon.com/s?k=mouse&i=computers&rh=n%3A172282%2Cn%3A541966%2Cn%3A172456%2Cn%3A11548956011&dc&qid=1625813795&ref=a9_sc_1'
+#     secondary_url: 'https://www.amazon.com/s?k=mouse&i=computers&rh=n%3A172282%2Cn%3A541966%2Cn%3A172456%2Cn%3A11548956011&dc&page=2&qid=1625813832&ref=sr_pg_2'
+#     yml_file: products/mouse/mouse_description.yml
+#     path: 'products/mouse/'    
+# #- keyboard:
+# -   product_name: keyboard
+#     main_url:  'https://www.amazon.com/s?k=Keyboard&rh=n%3A12879431&dc&qid=1625813511&rnid=2941120011&ref=sr_nr_n_4'
+#     secondary_url: 'https://www.amazon.com/s?k=Keyboard&i=computers&rh=n%3A12879431&dc&page=2&qid=1625813872&rnid=2941120011&ref=sr_pg_2'
+#     yml_file: products/keyboard/keyboard_description.yml
+#     path: 'products/keyboard/'
+# #- dslr_cameras:
+# -   product_name: dslr_camera
+#     main_url:  'https://www.amazon.com/s?k=DSLR+cameras&rh=n%3A502394%2Cn%3A3017941&dc&qid=1625813518&rnid=2941120011&ref=sr_nr_n_2'
+#     secondary_url: 'https://www.amazon.com/s?k=DSLR+cameras&i=photo&rh=n%3A502394%2Cn%3A3017941&dc&page=2&qid=1625813914&rnid=2941120011&ref=sr_pg_2'
+#     yml_file: products/dslr_cameras/dslr_cameras_description.yml
+#     path: 'products/dslr_cameras/'
+# #- smartphones:
+# -   product_name: smartphones
+#     main_url:  'https://www.amazon.com/s?k=Smartphone&rh=n%3A7072561011&dc&qid=1625813527&rnid=2941120011&ref=sr_nr_n_1'
+#     secondary_url: 'https://www.amazon.com/s?k=Smartphone&i=mobile&rh=n%3A7072561011&dc&page=2&qid=1625813992&rnid=2941120011&ref=sr_pg_2'
+#     yml_file: products/smartphones/smartphones_description.yml
+#     path: 'products/smartphones/'
+# #- headphones:
+# -   product_name: headphones
+#     main_url:  'https://www.amazon.com/s?k=Headphones&rh=n%3A172541&dc&qid=1625813533&rnid=2941120011&ref=sr_nr_n_1'
+#     secondary_url: 'https://www.amazon.com/s?k=Headphones&i=electronics&rh=n%3A172541&dc&page=2&qid=1625814046&rnid=2941120011&ref=sr_pg_2'
+#     yml_file: products/headphones/headphones_description.yml
+#     path: 'products/headphones/'
