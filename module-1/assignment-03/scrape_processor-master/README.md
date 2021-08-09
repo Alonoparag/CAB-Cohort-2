@@ -12,7 +12,7 @@ Changes made by [Alon Parag](https://github.com/alonoparag):
 
 ## Flow scheme
 
-![Workflow of scrape-processor](/app_schema.png)
+![Workflow of scrape-processor](https://github.com/Alonoparag/CAB-Cohort-2/blob/master/module-1/assignment-03/scrape_processor-master/app_scheme.png)
 
 ## Usage
 This project helps to get product information from the listed products on amazon web page.
