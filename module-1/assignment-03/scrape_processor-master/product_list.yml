@@ -14,12 +14,12 @@
 #     secondary_url: 'https://www.amazon.com/s?k=monitor&i=computers&rh=n%3A541966%2Cn%3A1292115011&dc&page=2&qid=1625813748&rnid=2941120011&ref=sr_pg_2'
 #     yml_file: products/monitors/monitors_description.yml
 #     path: 'products/monitors/'
-# #- mouses:
+# #- mice:
 # -   product_name: mouse
 #     main_url:  'https://www.amazon.com/s?k=mouse&i=computers&rh=n%3A172282%2Cn%3A541966%2Cn%3A172456%2Cn%3A11548956011&dc&qid=1625813795&ref=a9_sc_1'
 #     secondary_url: 'https://www.amazon.com/s?k=mouse&i=computers&rh=n%3A172282%2Cn%3A541966%2Cn%3A172456%2Cn%3A11548956011&dc&page=2&qid=1625813832&ref=sr_pg_2'
-#     yml_file: products/mouse/mouse_description.yml
-#     path: 'products/mouse/'    
+#     yml_file: products/mice/mice_description.yml
+#     path: 'products/mice/'    
 # #- keyboard:
 # -   product_name: keyboard
 #     main_url:  'https://www.amazon.com/s?k=Keyboard&rh=n%3A12879431&dc&qid=1625813511&rnid=2941120011&ref=sr_nr_n_4'
