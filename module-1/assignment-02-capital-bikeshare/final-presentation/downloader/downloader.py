@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support import expected_conditions as EC
-import polling2, time
+import time
 import subprocess
 import os
 
@@ -34,10 +34,10 @@ def downloader(link):
     path_datasets = '/home/alonp/Documents/CABerlin/module-1/assignment-02-capital-bikeshare/datasets'
     link_name = link.split("/")[-1]
 
-    cmd_mkdir = ['mkdir', f'{path_datasets}/cbs-historical']
-    cmd_curl=['curl', '-o', f'{path_datasets}/cbs-historical/{link_name}', link]
-    cmd_unzip=['unzip', f'{path_datasets}/cbs-historical/{link_name}','-d',f'{path_datasets}/cbs-historical/']
-    cmd_rmzip = ['rm',f'{path_datasets}/cbs-historical/{link_name}']
+    cmd_mkdir = ['mkdir', f'{path_datasets}/cbs-tableau']
+    cmd_curl=['curl', '-o', f'{path_datasets}/cbs-tableau/{link_name}', link]
+    cmd_unzip=['unzip', f'{path_datasets}/cbs-tableau/{link_name}','-d',f'{path_datasets}/cbs-tableau/']
+    cmd_rmzip = ['rm',f'{path_datasets}/cbs-tableau/{link_name}']
     subprocess.call(cmd_mkdir)
 
     print('='*10,f'Downloading {link_name}','='*10,sep='\n',end='\n')
@@ -65,9 +65,9 @@ def download_data():
         links = get_links(driver)
         links.pop()
         # downloader(links[0]) #TEST LINE
-        for link in links[-12:]:
+        for link in links:
             downloader(link)
-        os.system('rm -rf /home/alonp/Documents/CABerlin/module-1/assignment-02-capital-bikeshare/datasets/cbs-historical/__MACOSX')
+        os.system('rm -rf /home/alonp/Documents/CABerlin/module-1/assignment-02-capital-bikeshare/datasets/cbs-tableau/__MACOSX')
 
     except TimeoutException as e:
         print(e, 'loading time exceeded 3 minutes', sep='\n')
